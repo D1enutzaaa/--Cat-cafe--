@@ -1,2 +1,8 @@
 # --Cat-cafe--
-make as many clients happy
+Make as many clients happy
+
+### Options:
+- See your cats
+- Get ingredients
+- Feed a cat
+- Exit
