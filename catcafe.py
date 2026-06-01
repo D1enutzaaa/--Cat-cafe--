@@ -1,1 +1,5 @@
-print("Hello")
+print("Hello, welcome to cat cafe! From now on you'll serve the cats. Will you...")
+print("1. See the orders")
+print("2. get ingredients")
+print("3. feed a cat")
+print("4, exit the game")
