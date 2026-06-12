@@ -28,3 +28,5 @@ Make as many clients happy
 
 - win condition
    - after every action check if happy_cats >= 3 and print a win message + break
+ 
+diana unblock :(
